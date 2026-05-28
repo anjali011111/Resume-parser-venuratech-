@@ -42,7 +42,7 @@ resume_parser_project/
 
 How to Run
 Step 1 — Clone the repository
-bashgit clone https://github.com/YOUR_USERNAME/resume-parser-ai.git
+bashgit clone https://github.com/anjali011111/Resume-parser-venuratech -
 cd resume-parser-ai
 Step 2 — Install dependencies
 bashpip install -r requirements.txt
